@@ -38,3 +38,5 @@
 
 <img src="http://mazandi.herokuapp.com/api?handle={dlrlejr1}&theme=warm"/>
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lkdcodes&show_icons=true&theme=tokyonight)
