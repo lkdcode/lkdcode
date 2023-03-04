@@ -36,5 +36,5 @@
 <br/><br/>
 
 
-<img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle={dlrlejr1}&theme=warm"/>
 
