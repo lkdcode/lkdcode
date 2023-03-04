@@ -27,31 +27,10 @@
 
 <br/><br/>
 
-<h3 align="center">⏰ Wakatime ⏰</h3>
-<div align="center">
-	<hr width="300px;"/>
-	<img src="https://wakatime.com/badge/user/04576067-463a-4fd9-be4e-56687a44d3fb.svg"/>
-	<br/>
-	<br/>
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jwkwon0817"/>
-</div>
-
-<br/><br/>
-
-<h3 align="center">🗒️ My GitHub 🗒️</h3>
-<div align="center">
-	<hr width="300px;"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwkwon0817&layout=compact">
-	<br/><br/>
-	<img src="https://github-readme-stats.vercel.app/api?username=jwkwon0817&show_icons=true">
-</div>
-
-<br/><br/>
-
 <h3 align="center">❓ BOJ ❓</h3>
 <div align="center">
 	<hr width="300px;"/>
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkwon"/>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrlejr1"/>
 </div>
 
 <br/><br/>
