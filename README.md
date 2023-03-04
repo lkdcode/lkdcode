@@ -1,7 +1,8 @@
+<div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ Idea&logoColor=white"/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrlejr1"/>
-
+</div>
 
 
 <h3 align="center">✨ Languages ✨</h3>
