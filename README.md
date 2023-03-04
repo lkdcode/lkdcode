@@ -1,8 +1,4 @@
-<div align="center">
-	<h3>📝</h3>
-	<hr width="300px;"/>
-</div>
-<br>
+<h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>	
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ Idea&logoColor=white"/><br>
