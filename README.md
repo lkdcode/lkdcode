@@ -11,14 +11,6 @@
 
 <br><br>
 
-<h3 align="center">🗝️ BoJ 🗝️</h3>
-<div align="center">
-<hr width="300px;"/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrlejr1"/><br>
-</div>
-
-<br><br>
-
 <h3 align="center">🗒️ My GitHub 🗒️</h3>
 <div align="center">
 	<hr width="300px;"/>
@@ -29,10 +21,19 @@
 
 <br><br>
 
+
+<h3 align="center">🗝️ BoJ 🗝️</h3>
+<div align="center">
+<hr width="300px;"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrlejr1"/><br>
+</div>
+
+<br><br>
+
 <h3 align="center">📑 My Blog 📑</h3>
 <div align="center">
 	<hr width="300px;"/>
-	<h3>Null Pointer Exception</h3>
+	<h3>NPE</h3>
 	<br/><br/>
 	
 </div>
