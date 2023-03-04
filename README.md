@@ -1,5 +1,7 @@
-<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+<h3>🛠 Tools 🛠</h3>
 <hr width="300px;"/>
+</div>
 <br>
 
 <div align="center">
