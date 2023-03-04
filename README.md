@@ -22,9 +22,9 @@
 <h3 align="center">🗒️ My GitHub 🗒️</h3>
 <div align="center">
 	<hr width="300px;"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkdcode&layout=compact&theme=tokyonight">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkdcode&layout=compact&theme=gruvbox">
 	<br/><br/>
-	<img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=tokyonight">
+	<img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox">
 </div>
 
 <br><br>
