@@ -24,7 +24,7 @@
 	<hr width="300px;"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkdcode&layout=compact">
 	<br/><br/>
-	<img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=tokyonight">
 </div>
 
 <br><br>
