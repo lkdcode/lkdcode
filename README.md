@@ -41,5 +41,3 @@
 </div>
 
 <br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lkdcode&theme=gruvbox&hide_border=true&date_format=%5BY%20%5DM%20j&stroke=EB5454)](https://git.io/streak-stats)
