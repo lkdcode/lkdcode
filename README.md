@@ -40,6 +40,5 @@
 
 <br><br>
 
-<div align="cneter">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lkdcode)](https://git.io/streak-stats)
-</div>
