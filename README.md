@@ -17,7 +17,7 @@
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lkdcode&theme=gruvbox">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lkdcode&theme=gruvbox">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lkdcode&theme=gruvbox&utcOffset=8">
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrlejr1"/><br>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lkdcode&theme=gruvbox"/><br>
 	<br>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkdcode&theme=gruvbox">
 
