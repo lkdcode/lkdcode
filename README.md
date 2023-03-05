@@ -16,11 +16,8 @@
 	<hr width="300px;"/>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lkdcode&theme=gruvbox">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lkdcode&theme=gruvbox">
-		
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lkdcode&theme=gruvbox&utcOffset=8">
-	<br><br>
 
-	
 </div>
 
 <br><br>
