@@ -19,6 +19,8 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox">
 	<br><br>
 	<img src="https://streak-stats.demolab.com?user=lkdcode&theme=gruvbox&hide_border=true&date_format=%5BY%20%5DM%20j&stroke=EB5454">
+	<br><br>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkdcode&theme=gruvbox">
 </div>
 
 <br><br>
