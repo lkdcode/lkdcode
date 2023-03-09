@@ -15,9 +15,7 @@
 
 <div align="center">
 	<hr width="300px;"/>
-	<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox">
-	</div>
+
 	
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lkdcode&theme=gruvbox">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lkdcode&theme=gruvbox">
