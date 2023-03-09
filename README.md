@@ -21,8 +21,6 @@
 	<br>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkdcode&theme=gruvbox">
 
-	<img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox">
-
 </div>
 
 <div align="center">
