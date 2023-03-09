@@ -13,11 +13,10 @@
 
 <h3 align="center">🗒️ My GitHub 🗒️</h3>
 
-	<hr width="300px;">
-
-	<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox">
-	</div>
+<hr width="300px;">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox">
+</div>
 <div align="center">
 	
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lkdcode&theme=gruvbox">
