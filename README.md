@@ -21,13 +21,15 @@
 	<br>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkdcode&theme=gruvbox">
 	
-	<img src="https://github-readme-stats.vercel.app/api?lkdcode=anuraghazra&theme=dark&show_icons=true&theme=gruvbox">
+	
 	
 	
 
 </div>
 
 <br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?lkdcode=anuraghazra&theme=dark&show_icons=true&theme=gruvbox">
 
 
 <h3 align="center">🗝️ BoJ 🗝️</h3>
