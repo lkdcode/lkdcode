@@ -29,7 +29,8 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?lkdcode=anuraghazra&theme=dark&show_icons=true&theme=gruvbox">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox)
 
 
 <h3 align="center">🗝️ BoJ 🗝️</h3>
