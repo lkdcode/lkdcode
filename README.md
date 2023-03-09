@@ -20,6 +20,10 @@
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lkdcode&theme=gruvbox"/><br>
 	<br>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkdcode&theme=gruvbox">
+	
+	<img src="https://github-readme-stats.vercel.app/api?lkdcode=anuraghazra&theme=dark&show_icons=true&theme=gruvbox">
+	
+	
 
 </div>
 
