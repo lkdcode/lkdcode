@@ -12,6 +12,7 @@
 <br>
 </div>
 
+
 <br><br>
 
 <h3 align="center">🗒️ My GitHub 🗒️</h3>
@@ -21,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox">
 </div>
 <div align="center">
-	
+<img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox"/>	
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lkdcode&theme=gruvbox">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lkdcode&theme=gruvbox">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lkdcode&theme=gruvbox&utcOffset=8">
