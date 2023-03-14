@@ -11,6 +11,21 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <br>
 </div>
+<br><br>
+
+
+
+
+
+TEST
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox)
+
+
+
+
+
+
 
 
 <br><br>
