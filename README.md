@@ -20,7 +20,7 @@
 TEST
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkdcodeanuraghazra&theme=dark&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernamelkdcode=anuraghazra&theme=gruvbox&show_icons=true)
 
 
