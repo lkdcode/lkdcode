@@ -22,7 +22,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox">
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lkdcode&show_icons=true&theme=gruvbox">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lkdcode&theme=gruvbox">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lkdcode&theme=gruvbox&utcOffset=8">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lkdcode&theme=gruvbox">
