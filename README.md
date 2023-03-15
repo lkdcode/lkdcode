@@ -1,53 +1,28 @@
-<div align="center">
-<h3>🛠 Tools 🛠</h3>
-<hr width="300px;"/>
-</div>
-<br><br>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>	
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ Idea&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<br>
-</div>
-<br><br>
-
-
-<br><br>
-
-<h3 align="center">🗒️ My GitHub 🗒️</h3>
-
-<div align="center">
-<hr width="300px;">
-</div>
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lkdcode&theme=gruvbox">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lkdcode&theme=gruvbox&utcOffset=8">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lkdcode&theme=gruvbox">
-<br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkdcode&theme=gruvbox">
-
-</div>
 
 
 
-<br><br>
+---
+<h3>🚀 Language-</h3>
 
-<h3 align="center">🗝️ BoJ 🗝️</h3>
-<div align="center">
-<hr width="300px;"/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrlejr1"/><br>
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<h3>🛠️ Tool-</h3>
 
-<br><br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<h3 align="center">📑 My Blog 📑</h3>
-<div align="center">
-	<hr width="300px;"/>
-	<h3>NPE</h3>
-	<br/><br/>
-	
-</div>
+<h3>🌈 SNS-</h3>
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<br><br>
+
+<h3>💻 History</h3>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkdcode&theme=gruvbox&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkdcode&theme=gruvbox&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>🧮 Algorithm</h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrlejr1)](https://solved.ac/dlrlejr1/)
