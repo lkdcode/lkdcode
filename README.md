@@ -1,14 +1,16 @@
 <div align=center>
 
-## lkdcode
 
+
+<img align=center src="https://github.com/lkdcode/lkdcode/assets/110602069/3c07189e-d88a-432c-a2b5-088cc953e2bd" />
+
+<br>
 <br>
 
 <div>
 <img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=lkdcode&theme=gruvbox&show_icons=true"/>
 
 <div align=center height="200">
-<h3>🎯 Skills</h3>
   <br>
 <!--     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
