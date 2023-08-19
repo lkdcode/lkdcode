@@ -3,11 +3,12 @@
 <br>
 <br>
 <img src="https://skillicons.dev/icons?i=java,spring,postman&perline=3" />
-<p>
+<p> 
+<a href="https://velog.io/@lkdcode"><img src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlrlejr1" />
 <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />   
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
