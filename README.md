@@ -2,7 +2,7 @@
 
 <br/>
 <br/>
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgres,redis,jenkins,docker,grafana,prometheus,gradle,github,git,aws,postman,notion,idea,html,css,javascript&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,gradle,redis,mysql,postgres,jenkins,docker,aws,grafana,prometheus,github,git,postman,notion,idea,html,css,javascript&perline=5" />
 
 <p>
 <a href="https://lkdcode.dev" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/%E2%9C%85%20Myblog-lkdcode.dev-%235555f6"></a>
