@@ -7,10 +7,15 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" /><br>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,grafana,prometheus" /><br>
   <img src="https://skillicons.dev/icons?i=github,git,postman,notion,idea" /><br>
-  <img src="https://skillicons.dev/icons?i=vercel,md,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=vercel,md,html,css,javascript" /><br>
 </p>
 
 <p align="center">
-  <a href="https://lkdcode.dev" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/%E2%9C%85%20Myblog-lkdcode.dev-%235555f6"></a>
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlrlejr1" />
+  <a href="https://lkdcode.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Tech_Blog-lkdcode.dev-181717?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
 </p>
+
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlrlejr1" />
+</p
